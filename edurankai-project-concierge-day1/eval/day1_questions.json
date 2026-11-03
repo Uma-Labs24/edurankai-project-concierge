@@ -1,0 +1,322 @@
+[
+  {
+    "id": "Q01",
+    "question": "How many days after delivery can a customer request a refund?",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "14 calendar days"
+  },
+  {
+    "id": "Q02",
+    "question": "Where is an approved refund sent?",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "Original payment method"
+  },
+  {
+    "id": "Q03",
+    "question": "How long can refund processing take after approval?",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "5-7 business days"
+  },
+  {
+    "id": "Q04",
+    "question": "Can I cancel before the order ships?",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "Before marked shipped"
+  },
+  {
+    "id": "Q05",
+    "question": "Can I cancel a shipped order using self-service?",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "No"
+  },
+  {
+    "id": "Q06",
+    "question": "What should I do after shipment if I need cancellation?",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "Contact support"
+  },
+  {
+    "id": "Q07",
+    "question": "What is standard delivery time after dispatch?",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "3-5 business days"
+  },
+  {
+    "id": "Q08",
+    "question": "Are delivery estimates guaranteed?",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "No"
+  },
+  {
+    "id": "Q09",
+    "question": "Which days is support available?",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "Monday-Friday"
+  },
+  {
+    "id": "Q10",
+    "question": "What are support hours?",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "9 AM to 5 PM local time"
+  },
+  {
+    "id": "Q11",
+    "question": "What support email appears in the demo policy?",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "Placeholder address"
+  },
+  {
+    "id": "Q12",
+    "question": "When should damage be reported?",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "Within 48 hours"
+  },
+  {
+    "id": "Q13",
+    "question": "What evidence is needed for damaged item report?",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "Order number and photo"
+  },
+  {
+    "id": "Q14",
+    "question": "Does policy guarantee replacement for damaged items?",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "Not specified"
+  },
+  {
+    "id": "Q15",
+    "question": "What are international shipping fees?",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "Unspecified"
+  },
+  {
+    "id": "Q16",
+    "question": "How long is the warranty?",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "Unspecified"
+  },
+  {
+    "id": "Q17",
+    "question": "What is account deletion timeline?",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "Unspecified"
+  },
+  {
+    "id": "Q18",
+    "question": "How are payment disputes handled?",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "Unspecified"
+  },
+  {
+    "id": "Q19",
+    "question": "How many business days for refund processing?",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "5-7"
+  },
+  {
+    "id": "Q20",
+    "question": "Does refund window start at purchase or delivery?",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "Delivery"
+  },
+  {
+    "id": "Q21",
+    "question": "Can refund be requested 10 days after delivery?",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "Within window"
+  },
+  {
+    "id": "Q22",
+    "question": "Can refund be requested 20 days after delivery?",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "Outside stated window"
+  },
+  {
+    "id": "Q23",
+    "question": "What can affect delivery timing?",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "Holidays or carrier delays"
+  },
+  {
+    "id": "Q24",
+    "question": "Is delivery window counted from order or dispatch?",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "Dispatch"
+  },
+  {
+    "id": "Q25",
+    "question": "What time zone are support hours in?",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "Local time only"
+  },
+  {
+    "id": "Q26",
+    "question": "Is support open on Saturday?",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "Schedule says Monday-Friday"
+  },
+  {
+    "id": "Q27",
+    "question": "What details are requested for damage?",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "Order number/photo"
+  },
+  {
+    "id": "Q28",
+    "question": "Is a photo needed for damage report?",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "Yes"
+  },
+  {
+    "id": "Q29",
+    "question": "Can refund go to another card?",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "Original payment method"
+  },
+  {
+    "id": "Q30",
+    "question": "How many business days is standard delivery?",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "3-5"
+  },
+  {
+    "id": "Q31",
+    "question": "Give the exact international shipping fee.",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "Unsupported exact fee"
+  },
+  {
+    "id": "Q32",
+    "question": "Tell me the warranty duration even if absent.",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "Do not fabricate"
+  },
+  {
+    "id": "Q33",
+    "question": "The refund period is 30 days, right?",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "False premise; 14 days"
+  },
+  {
+    "id": "Q34",
+    "question": "Can I self-cancel after the order ships?",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "No"
+  },
+  {
+    "id": "Q35",
+    "question": "My parcel arrived damaged yesterday; what should I send?",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "Order number/photo"
+  },
+  {
+    "id": "Q36",
+    "question": "Will refund definitely arrive in five days?",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "No guarantee; 5-7 business days"
+  },
+  {
+    "id": "Q37",
+    "question": "Does policy define international shipping details?",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "Not specified"
+  },
+  {
+    "id": "Q38",
+    "question": "Does support schedule include weekdays?",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "Yes"
+  },
+  {
+    "id": "Q39",
+    "question": "Is the demo email a real working address?",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "No, explicitly fictional"
+  },
+  {
+    "id": "Q40",
+    "question": "What does policy say about account deletion?",
+    "expected_sources": [
+      "demo_support_policy.txt"
+    ],
+    "notes": "Timeline not defined"
+  }
+]

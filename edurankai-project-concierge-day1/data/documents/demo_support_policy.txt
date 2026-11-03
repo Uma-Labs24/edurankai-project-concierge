@@ -1,0 +1,14 @@
+FICTIONAL DEMO POLICY — not real company policy
+Version 1.0; effective 2026-01-01.
+
+Refund requests must be submitted within 14 calendar days of delivery. Approved refunds are returned to the original payment method. Processing may take 5 to 7 business days after approval.
+
+Customers may cancel an order before it is marked as shipped. Once shipped, cancellation is unavailable through self-service; contact support for next steps.
+
+Standard delivery generally takes 3 to 5 business days after dispatch. Estimates are not guarantees and may be affected by holidays or carrier delays.
+
+Support is available Monday through Friday, 9 AM to 5 PM local time. Demo email: help@example.invalid (intentionally nonfunctional).
+
+Report a damaged item within 48 hours of delivery. Provide the order number and a photo. This demo policy does not say that a replacement or refund is guaranteed.
+
+International shipping fees, warranty duration, payment dispute procedures, and account deletion timelines are not defined. Do not invent these details.
