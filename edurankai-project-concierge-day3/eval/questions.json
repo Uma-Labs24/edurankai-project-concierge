@@ -1,0 +1,42 @@
+[
+  {
+    "id": "Q1",
+    "question": "What documents are needed for admissions application?",
+    "relevant_doc": "admissions_policy"
+  },
+  {
+    "id": "Q2",
+    "question": "How do I request a refund?",
+    "relevant_doc": "refund_policy"
+  },
+  {
+    "id": "Q3",
+    "question": "Can you guarantee exact refund processing time?",
+    "relevant_doc": "refund_policy"
+  },
+  {
+    "id": "Q4",
+    "question": "What if my order lookup fails?",
+    "relevant_doc": "order_support"
+  },
+  {
+    "id": "Q5",
+    "question": "Latest eligibility requirements for admission?",
+    "relevant_doc": "admissions_policy"
+  },
+  {
+    "id": "Q6",
+    "question": "Tracking number for unknown order?",
+    "relevant_doc": "order_support"
+  },
+  {
+    "id": "Q7",
+    "question": "Explain quantum teleportation.",
+    "relevant_doc": null
+  },
+  {
+    "id": "Q8",
+    "question": "What is the guaranteed refund amount?",
+    "relevant_doc": "refund_policy"
+  }
+]

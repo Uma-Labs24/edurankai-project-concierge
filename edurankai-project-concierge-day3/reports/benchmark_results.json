@@ -1,0 +1,31 @@
+{
+  "mode": "local_mock_no_paid_llm",
+  "samples_per_question": 30,
+  "question_count": 8,
+  "measurements": {
+    "day1_retrieval": {
+      "count": 240,
+      "average_ms": 0.0147,
+      "median_ms": 0.0123,
+      "p95_ms": 0.0179
+    },
+    "improved_retrieval": {
+      "count": 240,
+      "average_ms": 0.0339,
+      "median_ms": 0.0249,
+      "p95_ms": 0.0619
+    },
+    "local_answer_pipeline": {
+      "count": 240,
+      "average_ms": 0.0991,
+      "median_ms": 0.0756,
+      "p95_ms": 0.1977
+    }
+  },
+  "cost_estimate": {
+    "status": "illustrative_not_actual_charges",
+    "assumption": "Hypothetical 500 input/250 output tokens; assumed USD 0.50/1M input and USD 1.50/1M output; no API call.",
+    "estimated_usd_per_query": 0.000625,
+    "actual_api_cost_usd": null
+  }
+}

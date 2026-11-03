@@ -1,0 +1,25 @@
+{
+  "policies": [
+    {
+      "document_id": "admissions_policy",
+      "version": "1.1",
+      "source": "Fictional demo policy, not EduRankAI official",
+      "effective_date": "2026-11-01",
+      "status": "current"
+    },
+    {
+      "document_id": "refund_policy",
+      "version": "1.0",
+      "source": "Fictional demo policy",
+      "effective_date": "2026-10-15",
+      "status": "current"
+    },
+    {
+      "document_id": "order_support",
+      "version": "1.0",
+      "source": "Fictional demo guidance",
+      "effective_date": "2026-10-15",
+      "status": "current"
+    }
+  ]
+}

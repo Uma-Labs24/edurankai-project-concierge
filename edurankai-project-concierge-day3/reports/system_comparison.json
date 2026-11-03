@@ -1,0 +1,19 @@
+{
+  "note": "Actual local run on small fictional labelled set; not a formal quality guarantee.",
+  "systems": {
+    "Day 1 baseline": {
+      "recall_at_3": 1.0,
+      "citation_evidence_coverage": "unavailable_baseline_has_no_citations",
+      "abstention_count": "not_implemented",
+      "retrieval_average_latency_ms": 0.0126,
+      "question_count": 8
+    },
+    "Improved Day 2/3": {
+      "recall_at_3": 1.0,
+      "citation_evidence_coverage": 0.875,
+      "abstention_count": 1,
+      "retrieval_average_latency_ms": 0.032,
+      "question_count": 8
+    }
+  }
+}
