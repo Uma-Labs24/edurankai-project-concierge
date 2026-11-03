@@ -1,0 +1,23 @@
+[
+  {
+    "file": "admissions_policy.md",
+    "version": "1.1",
+    "source": "Project sample policy notice (mock; replace with approved institutional source)",
+    "effective_date": "2026-11-01",
+    "change_summary": "Clarified that eligibility and document requirements must be verified against the latest official notice."
+  },
+  {
+    "file": "refund_policy.md",
+    "version": "1.0",
+    "source": "Project sample policy notice (mock; replace with approved institutional source)",
+    "effective_date": "2026-10-15",
+    "change_summary": "Initial sample refund guidance; no refund amount or processing-time promise."
+  },
+  {
+    "file": "order_support.md",
+    "version": "1.0",
+    "source": "Project sample support guidance (mock)",
+    "effective_date": "2026-10-15",
+    "change_summary": "Initial order lookup guidance and no-invention rule."
+  }
+]
